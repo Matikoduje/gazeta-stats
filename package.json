@@ -1,0 +1,19 @@
+{
+  "name": "gazeta-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matikoduje/gazeta-stats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matikoduje/gazeta-stats/issues"
+  },
+  "homepage": "https://github.com/Matikoduje/gazeta-stats#readme"
+}
